@@ -1,0 +1,15 @@
+# Ignore system directories
+Application Data/
+Cookies/
+Documents/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+# Ignore other common files
+*.log
+*.tmp
